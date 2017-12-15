@@ -1,0 +1,42 @@
+.parallax {
+    /* The image used */
+    background-image: url(image1.jpg);
+
+    /* Set a specific height */
+    min-height: 600px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    font-size:60px;
+    font-family: 'Jura', sans-serif;
+    color: white;
+    margin-bottom: 20px;
+}
+.home{
+    font-size:25px;
+    font-family: 'Jura', sans-serif;
+    color: white;
+    margin-bottom: 20px;
+}
+p{
+
+    margin: 50px;
+    font-size: 25px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.footer {
+    margin: auto;
+    width: 75%;
+    font-size: 12px;
+    padding: 10px;
+}
+.centerTextBlock {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+}
